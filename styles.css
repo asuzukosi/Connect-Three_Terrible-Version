@@ -1,0 +1,30 @@
+#grid{
+  background-color: red;
+  display: flex;
+  flex-wrap: wrap;
+  height: 600px;
+  width:700px;
+}
+.block{
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+}
+.taken{
+  background-color: black;
+  height: 100px;
+  width: 100px;
+
+}
+.playerOne{
+  background-color: green;
+  height: 100px;
+  width: 100px;
+
+}
+.playerTwo{
+  background-color: purple;
+  height: 100px;
+  width: 100px;
+
+}
